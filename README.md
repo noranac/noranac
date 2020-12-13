@@ -1,4 +1,4 @@
-## I am Nora Naceri 
+## I there, I am Nora Naceri :wave:
 
 ## 🤔 What else about me?
 
