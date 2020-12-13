@@ -1,16 +1,20 @@
-### Hi there 👋
+## I am Nora Naceri 
 
-<!--
-**noranac/noranac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 What else about me?
 
-Here are some ideas to get you started:
+- 🖥 Full-stack Symfony developer
+- 🎓 Learned coding with o'Clock, an online school
+- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on SuperHero app with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👯 I’m looking forward to:
+- Gain experience 💪
+- Collaborate 🤝
+- Create amazing apps :fireworks:
+
+## 📫 How to reach me: 
+ If you want to discuss you can join me on Linkedin https://www.linkedin.com/in/nora-naceri/ or via 📧 nora.naceri90@gmail.com
+
+
+
